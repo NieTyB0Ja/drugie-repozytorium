@@ -10,5 +10,6 @@
         WindowStartupLocation="CenterScreen">
     <TextBlock Text="recsne"
                FontSize="32"
-               FontWeight="Bold" />
+               FontWeight="Bold"
+               FontStyle="Italic" />
 </Window>
