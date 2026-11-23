@@ -11,5 +11,6 @@
     <TextBlock Text="recsne"
                FontSize="32"
                FontWeight="Bold"
-               FontStyle="Italic" />
+               FontStyle="Italic"
+               Foreground="#C05621" />
 </Window>
