@@ -8,5 +8,6 @@
         Width="500"
         Height="300"
         WindowStartupLocation="CenterScreen">
-    <TextBlock Text="recsne" />
+    <TextBlock Text="recsne"
+               FontSize="32" />
 </Window>
