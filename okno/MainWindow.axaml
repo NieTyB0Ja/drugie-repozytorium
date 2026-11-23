@@ -6,6 +6,7 @@
         x:Class="okno.MainWindow"
         Title="2d"
         Width="500"
-        Height="300">
+        Height="300"
+        WindowStartupLocation="CenterScreen">
     Welcome to Avalonia!
 </Window>
