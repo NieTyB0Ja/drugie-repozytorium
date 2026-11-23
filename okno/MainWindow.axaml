@@ -7,7 +7,6 @@
         Title="2d"
         Width="500"
         Height="300"
-        WindowStartupLocation="CenterScreen"
-        WindowState="Maximized">
-    Welcome to Avalonia!
+        WindowStartupLocation="CenterScreen">
+    recsne
 </Window>
